@@ -1,0 +1,14 @@
+p{
+font-size: 18px
+
+}
+
+img{
+  size: 100%
+}
+
+@media screen and (min-device-width: 500px){
+  img{
+    width:400px
+  }
+}
