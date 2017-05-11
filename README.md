@@ -1,3 +1,3 @@
 # wyncode_homework
-homewotrk
+homework
 work performed at wyncode c 15
